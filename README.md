@@ -9,7 +9,7 @@ Este es un ejemplo sencillo de MVC hecho en php, html y boostrap
 Este proyecto no hace falta instalación, simplemente abre la carpeta o haz doble click en la carpeta seleccionada
 
 ## Ver ejemplo en vivo
-* [https://mirandawang04.github.io/Mi-Portfolio/](https://mirandawang04.github.io/Mi-Portafolio/)
+* [(https://mirandawang04.github.io/Mi-Portafolio/)](https://mirandawang04.github.io/MVC_cliente/)
 
 ## Contratación
 Si quieres contratarme puedes escribirme a wangguomiranda@gmail.com para consultas
